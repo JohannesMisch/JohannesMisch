@@ -1,7 +1,9 @@
 ### Hi there 👋 My Name is Johannes 
 
-I´m a student at neuefische
-I currently learn how to get started in the web-dev coding world.
+- I´m a student at neuefische
+- I currently learn how to get started in the web-dev coding world.
+## What i want to learn 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JohannesMisch&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
