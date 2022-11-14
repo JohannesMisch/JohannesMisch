@@ -1,7 +1,7 @@
 # Hi there 👋 My Name is Johannes 
 
 - I´m a student at neuefische
-- I currently learn how to get started in the web-dev coding world.
+- I´m currently learning how to get started in the web-dev coding world.
 ## What i want to learn 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
