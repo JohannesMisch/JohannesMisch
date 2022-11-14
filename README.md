@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 My Name is Johannes 
+
+I´m a student at neuefische
+I currently learn how to get started in the web-dev coding world.
+
+
+
+
+
 
 <!--
 **JohannesMisch/JohannesMisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
